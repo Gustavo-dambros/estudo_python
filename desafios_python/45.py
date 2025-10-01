@@ -22,3 +22,11 @@ elif jogador == maquina:
     print('EMPATE')
 else:
     print('\033[0;31m Jogada nao valida \033[m')
+
+
+#explicação do professor
+#if maquina ==0:
+#if jogador ==0:
+# print(empate)
+
+#if dentro de if
