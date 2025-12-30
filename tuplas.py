@@ -2,4 +2,7 @@
 
 lanche='hamburguer','pizza'
 
-print(lanche[1])
+print(lanche)
+
+for comida in lanche:
+    print(f'eu comi {comida}')
